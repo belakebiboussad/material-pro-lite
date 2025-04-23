@@ -1,241 +1,262 @@
-<!-- # material-pro-lite -->
-<!-- Heading of Template -->
-<h1>
-  <a href="https://www.wrappixel.com/templates/materialpro-lite/">Material Pro Bootstrap Admin Lite</a>
+<p align="center">
+   <a href="https://www.wrappixel.com/" target="_blank">
+      <img src="https://adminmart.github.io/template_api/images/brand-logo/WrapPixel-Logo.svg" alt="sneat-logo" width="100px" height="100px">
+   </a>
+</p>
+<h1 align="center">
+   <a href="https://www.wrappixel.com/templates/materialpro-lite/?ref=376" target="_blank" align="center">
+       MaterialPro Bootstrap Lite
+   </a>
 </h1>
+<p align="center">Download most useful and comprehensive 🚀 Free Bootstrap admin template built for developers 🛠</p>
 
-<!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/templates/materialpro-lite/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-free-bootstrap-5-dashboard-wpn.jpg" />
-</a>
+[![MaterialPro Bootstrap Lite Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-free-bootstrap-5-dashboard-wpn.jpg)](https://www.wrappixel.com/templates/materialpro-lite/?ref=376)
 
-<!-- <h4><a href="https://wrappixel.com/demos/free-admin-templates/material-pro-lite/html/index.html">Free Version Demo Link</a></h4> -->
+## 👋 Introduction
+
+**MaterialPro Bootstrap Lite** is a free, responsive admin dashboard template designed to help developers and startups build modern web applications faster. Built with the trusted frontend stack of **Bootstrap**, **Sass**, **jQuery**, and **ApexCharts**, it offers a visually appealing Material Design look that works seamlessly across all devices.
+
+Ideal for creating **admin panels**, **project dashboards**, **CRM systems**, and **backend interfaces**, MaterialPro Bootstrap Lite includes essential UI components, pre-built pages, and interactive charts—allowing you to launch faster with less effort. Its clean codebase and modular structure make it easy to customize and scale.
+
+Whether you're a developer, freelancer, or startup looking for a lightweight and professional admin template, **MaterialPro Bootstrap Lite** delivers performance, flexibility, and a polished user experience—all without cost.
 
 
-<!-- Description of Template -->
-<p>
-  WrapPixel has carefully crafted a fully-responsive design template that can be executed for any of your projects. While you use the free version of MaterialPro Bootstrap Lite it provides amazing layouts, pages templates, widgets, elements and much more. It’s one of the amazing free dashboard template bootstrap 5 that uses essential Bootstrap components in its pre-set design patterns to maintain the consistency and reliability in the design.
-</p>
+### 🔑 Key Features
 
-# Compare with Premium Version 🌓
+- **Responsive Design**  
+  Ensures a smooth user experience across desktops, tablets, and mobile devices using Bootstrap’s mobile-first grid system.
+
+- **Material-Inspired UI**  
+  Features a modern, Material Design-inspired interface built with Bootstrap components for a clean, professional look.
+
+- **Pre-built Dashboard Pages**  
+  Includes ready-to-use pages like dashboards, authentication, user profiles, and error screens to help you get started quickly.
+
+- **Interactive ApexCharts**  
+  Integrated with **ApexCharts** to deliver dynamic, interactive data visualizations perfect for admin and analytics dashboards.
+
+- **SCSS for Easy Customization**  
+  Powered by **Sass (SCSS)** for clean, maintainable, and customizable styles using variables and mixins.
+
+- **Developer Friendly Setup**  
+  Lightweight codebase with jQuery-powered interactivity and modular structure, making it easy to customize and extend.
+
+---
+
+## 🛠️ Notable Libraries and Tools
+
+| **Library / Tool**     | **Description**                                                                 |
+|------------------------|---------------------------------------------------------------------------------|
+| **Bootstrap 5**        | A widely-used frontend framework for building responsive and mobile-first websites with a clean and flexible component library. |
+| **Sass (SCSS)**        | A CSS preprocessor that adds power and elegance to stylesheets with features like variables, nesting, and mixins. |
+| **jQuery**             | A fast and lightweight JavaScript library used for DOM manipulation, event handling, and AJAX functionality. |
+| **ApexCharts**         | A modern JavaScript charting library for building interactive, customizable charts ideal for data-rich dashboards. |
+
+---
+
+## 💾 Installation Guide
+
+Welcome to the **MaterialPro Bootstrap Lite**! This guide will walk you through the installation and setup process, so you can get started with building your custom admin dashboard in no time.
+
+### 📝 Steps to Install
+
+#### 1. **Clone the Repository**
+
+The easiest way to get started is by cloning the repository or download the zip file. You can do this with the following command:
+
+```bash
+git clone https://github.com/wrappixel/material-pro-lite.git
+```
+
+#### 2. **Install Dependencies**
+
+Install the relative Dependencies of the template. You can do this with the following command:
+
+```bash
+npm install
+```
+
+#### 3. **Start the Development Server**
+
+Once the dependencies are installed, you can start a local development server to preview the template: 
+
+```bash
+gulp
+```
+---
+
+## 📝 Documentation
+
+Welcome to the **MaterialPro Bootstrap Lite** documentation! Whether you're just getting started or looking to explore advanced features, this guide will help you set up and customize your project with ease.
+
+👉 **[Click here to read the full documentation](https://wrappixel.github.io/free-documentation-wp/bootstrap/materialpro/index.html?ref=376)**
+
+---
+
+## 💎 Pro Version
+
+The Pro Version of the **MaterialPro Bootstrap Admin** comes packed with essential features—ideal for personal projects, prototypes, or small-scale applications. When you're ready to level up, the Pro Version unlocks a powerful suite of extras, including multiple theme options, advanced UI widgets, real-time notifications, priority support, and a host of other premium tools designed to supercharge your development workflow.
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://bootstrapdemos.wrappixel.com/materialpro/dist/main/index.html?ref=376" target="_blank">
+    <img src="https://img.shields.io/badge/Try_the_Demo-Click_Here-blue" alt="Try the Demo">
+  </a>
+  <a href="https://www.wrappixel.com/templates/materialpro/?ref=376" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Now-Click_Here-green" alt="Download Now">
+  </a>
+</div>
+
+[![MaterialPro Bootstrap Admin Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-bootstrap-admin-wpn.jpg)](https://www.wrappixel.com/templates/materialpro/?ref=376)
+
+---
+
+## ⚖️ Free vs Pro Version Comparison
+
+The **Free Version** of the **MaterialPro Bootstrap Admin** provides a solid set of features, perfect for personal projects or small applications. However, for businesses or developers looking to unlock more advanced functionality, the **Pro Version** offers exciting features like **multiple themes**, **advanced widgets**, **real-time notifications**, **priority support**, and much more. 
+
+
+#### Check out the comparison below to see the key differences between the two versions:
+
+| **Feature**                      | **Free Version**                       | **Pro Version**                                      |
+|-----------------------------------|----------------------------------------|-----------------------------------------------------|
+| **Demo**                          | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.wrappixel.com/materialpro-bt-free/html/index.html?ref=376)                               | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://bootstrapdemos.wrappixel.com/materialpro/dist/main/index.html?ref=376)                                              |
+| **Download**                      | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://www.wrappixel.com/templates/materialpro-lite/?ref=376)                                | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://www.wrappixel.com/templates/materialpro/?ref=376)                                          |
+| **Responsive Design**             | ✅ Yes                                 | ✅ Yes                                              |
+| **Pre-designed Pages**            | ✅ Basic Pages                         | ✅ Advanced Pages (more layouts & options)           |
+| **Widgets**                       | ✅ Basic Widgets                       | ✅ Advanced Widgets (e.g., weather, charts, maps)    |
+| **Themes**                        | ✅ Default Theme                | ✅ Multiple Themes, Custom Color Skins, and Dark Modes |
+| **Support**                       | ✅ Community Support                   | ✅ Priority Support with Direct Contact             |
+| **Additional Components**         | ❌ Limited                             | ✅ Additional Components (Forms, Buttons, More UI Elements) |
+| **Advanced Data Visualization**   | ❌ Basic Charts                        | ✅ Advanced Data Visualizations (graphs, complex charts) |
+| **Multi-Language Support**        | ❌ Not available                       | ✅ Built-in support for multiple languages          |
+| **User Permissions & Roles**      | ❌ No                                  | ✅ User roles and permissions management            |
+| **Real-time Notifications**       | ❌ Not available                       | ✅ Real-time notifications for alerts & updates      |
+| **Advanced Analytics & Reporting**| ❌ Basic reports                       | ✅ Advanced analytics with custom reports and filters|
+
+
+---
+
+## 🗂️ Other versions
 
 <table>
-<thead>
-<tr>
-<th>MaterialPro Free Bootstrap Admin Version</th>
-<th>MaterialPro Bootstrap Admin Version</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>
-    <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/materialpro-bootstrap-free/html/index.html">Live Preview</a>
-  </td>
-  <td>
-  <a href="https://bootstrapdemos.wrappixel.com/materialpro/dist/main/index.html">Live Preview</a>
-  </td>
-</tr>
-<tr>
-  <td>
-      <a href="https://www.wrappixel.com/templates/materialpro-lite/">Download Now</a>
-  </td>
-  <td>
-    <a href="https://www.wrappixel.com/templates/materialpro/?ref=33">Purchase Now</a>
-  </td>
-</tr>
-<tr>
-  <td>
-  1 Basic Dashboard
-  </td>
-  <td>
-  6+ Stunning Dashboards
-  </td>
-</tr>
-<tr>
-  <td>
-  -
-  </td>
-  <td>
-  Dashboard Figma Files
-  </td>
-</tr>
-<tr>
-  <td>
-  Bootstrap 5 Version
-  </td>
-  <td>
-  Bootstrap 5 Version
-  </td>
-</tr>
-<tr>
-  <td>
-  Fully Responsive Pages
-  </td>
-  <td>
-  Fully Responsive Pages
-  </td>
-</tr>
-<tr>
-  <td>
-  6+ Pages Template
-  </td>
-  <td>
-  500+ Page Templates
-  </td>
-</tr>
-<tr>
-  <td>
-  10+ UI Components
-  </td>
-  <td>
-  500+ UI Components
-  </td>
-</tr>
-<tr>
-  <td>
-  No Documentation
-  </td>
-  <td>
-  Documentation Provided
-  </td>
-</tr>
-<tr>
-  <td>
-  Easy To Customize
-  </td>
-  <td>
-  Easy To Customize
-  </td>
-</tr>
-<tr>
-  <td>
-  -
-  </td>
-  <td>
-  Right-to-Left(RTL) Verion
-  </td>
-</tr>
-<tr>
-  <td>
-  -
-  </td>
-  <td>
-  100+ Integrated Plugins
-  </td>
-</tr>
-<tr>
-  <td>
-  -
-  </td>
-  <td>
-  12+ Ready to Use App
-  </td>
-</tr>
-<tr>
-  <td>
-  -
-  </td>
-  <td>
-  1 Year Premium Support
-  </td>
-</tr>
-</tbody>
+   <thead>
+      <tr>
+         <th> 
+            <span style="font-size: 16px;">All Access Pass</span>
+         </th>
+         <th> 
+            <img src="https://skillicons.dev/icons?i=next" height="20" alt="next templates" style="margin-right: 8px;">
+            <span style="font-size: 16px;">Next</span>
+         </th>
+         <th> 
+            <img src="https://skillicons.dev/icons?i=react" height="20" alt="React templates" style="margin-right: 8px;">
+            <span style="font-size: 16px;">React</span>
+         </th>
+      </tr>
+   </thead>      
+   <tbody>
+      <tr>
+         <td>
+            <a href="https://www.wrappixel.com/all-access-pass/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/2025/04/all-access-pass-category-banner-1.png" alt="all access" style="max-width:140px;">
+            </a>
+         </td>
+         <td>
+            <a href="https://www.wrappixel.com/templates/materialpro-nextjs-admin-dashboard-app-directory/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/MaterialPro-Nextjs_without.jpg" alt="materialpro-next-admin-template" style="max-width:140px;">
+            </a>
+         </td>
+         <td>
+            <a href="https://www.wrappixel.com/templates/materialpro-react-admin/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/01/MaterialPro-React.js.jpg" alt="materialpro-react-admin-template" style="max-width:140px;">
+            </a>
+         </td> 
+      </tr>
+   </tbody>      
+   <thead>
+      <tr>
+         <th>
+            <img src="https://skillicons.dev/icons?i=angular" height="20" alt="Angular templates" style="margin-right: 8px;">
+            <span>Angular</span>
+         </th>
+         <th>
+            <img src="https://skillicons.dev/icons?i=vue" height="20" alt="Vue templates" style="margin-right: 8px;">
+            <span>Vue</span>
+         </th>
+         <th>
+            <img src="https://skillicons.dev/icons?i=nuxt" height="20" alt="Nuxt templates" style="margin-right: 8px;">
+            <span>Nuxt</span>
+         </th>
+      </tr>
+   </thead>   
+   <tbody>
+      <tr>
+         <td>
+            <a href="https://www.wrappixel.com/templates/materialpro-angular-dashboard/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-angular-admin-wpn.jpg" style="max-width:140px;">
+            </a>
+         </td>
+         <td>
+            <a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-vuetify-admin-wpn.jpg" alt="materialpro-vue-admin-template" style="max-width:150px;">
+            </a>
+         </td>  
+         <td>
+            <a href="https://www.wrappixel.com/templates/materialpro-nuxtjs/?ref=376" width="150px">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-nuxtjs-admin-wpn.jpg" alt="materialpro-nuxt-admin-template" style="max-width:150px;">
+            </a>
+         </td>
+      </tr>
+   </tbody>
 </table>
 
-
-<!-- Versions of Template -->
-<h2><a id="user-content-versions" class="anchor" aria-hidden="true" href="#versions"></a>Versions</h2>
-<table>
-<thead>
-<tr>
-<th>Bootstrap</th>
-<th>React</th>
-<th>Vue</th>
-<th>Angular</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-  <a href="https://www.wrappixel.com/templates/materialpro/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-bootstrap-admin-wpn.jpg" alt="MaterialPro Template  Bootstrap" style="max-width:150px;">
-  </a>
-</td>
-<td>
-  <a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-react-admin-wpn.jpg" alt="MaterialPro Template  React" style="max-width:150px;">
-  </a>
-</td>
-<td>
-  <a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-vuetify-admin-wpn.jpg" alt="MaterialPro Template  Vue" style="max-width:150px;">
-  </a>
-</td>
-  <td>
-  <a href="https://www.wrappixel.com/templates/materialpro-angular-dashboard/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-angular-admin-wpn.jpg" alt="MaterialPro Template  Angular" style="max-width:150px;">
-  </a>
-</td>
-</tr>
-</tbody>
-</table>
-
-<!-- Resources of Template -->
-<h2>Resources</h2>
-<ul>
-<li>  
-  Live Demo: <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/materialpro-bootstrap-free/html/index.html" rel="nofollow">https://demos.wrappixel.com/free-admin-templates/bootstrap/materialpro-bootstrap-free/html/index.html</a>
-</li>
-<li>
-    Download Page: <a href="https://www.wrappixel.com/templates/materialpro-lite/" rel="nofollow">
-  https://www.wrappixel.com/templates/materialpro-lite/</a>
-</li>
-<li>
-    <a href="https://www.wrappixel.com/templates/wrapkit/#demos" rel="nofollow">WrapKit </a>Complete UI Kit - For Website Projects
-</li>
-</ul>
-
-<!-- Licensing of Template -->
-<h2>Licensing</h2>
-<ul>
-  <li>
-    <p>Copyright 2021 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
-  </li>
-  <li>
-    <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
-  </li>
-</ul>
+---
 
 
-<!-- Upgrade to Premium version of Template -->
-<h2>Upgrade to Premium version</h2>
-<a target="_blank" href="https://www.wrappixel.com/templates/materialpro/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-bootstrap-admin-wpn.jpg" />
-</a>
-<p>
-   Checkout our premium version of Material Pro Bootstrap Admin for lots more features and ready to use page templates.<br>
-   <a href="https://demos.wrappixel.com/premium-admin-templates/bootstrap/materialpro-bootstrap/package/html/material/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/materialpro/">Download</a>
-</p>
+##  🤝  Contributing
 
-<!-- Useful Links of Template -->
-<h2>Useful Links</h2>
-<ul>
-<li><a href="https://www.wrappixel.com/templates/category/admin-template/">Admin Template</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/">Bootstrap Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">Bootstrap Admin Template</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/react-templates/">React Dashboard</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/vuejs-templates/">Vue Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/angular-templates/">Angular Templates</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/templates/category/free-templates/">Free Templates</a> from WrapPixel</li>
-</ul>
+We welcome contributions from the community to help improve the **MaterialPro Bootstrap Lite**. Whether it’s fixing bugs, adding new features, improving documentation, or sharing ideas — your input is appreciated!
 
-<!-- Social Media of Wrappixel -->
-<h2>Social Media</h2>
-<p>Facebook: <a href="https://www.facebook.com/wrappixel">https://www.facebook.com/wrappixel</a></p>
-<p>Twitter: <a href="https://twitter.com/wrappixel">https://twitter.com/wrappixel</a></p>
-<p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
-<!-- ## Pro Version -->
+### 🛠️ How to Contribute
 
-<!-- <a href="https://www.wrappixel.com/templates/materialpro/"><img src="https://www.wrappixel.com/wp-content/uploads/2019/01/materialpro-bootstrap-nw-1.jpg"/></a><br/> -->
+Follow these simple steps to start contributing:
 
-<!-- <h4><a href="https://www.wrappixel.com/demos/admin-templates/material-pro/material/index.html">Demo</a></h4> -->
+1. **Fork the Repository**  
+   Click the **Fork** button on the top-right corner of this repo to create your own copy.
+
+2. **Clone Your Fork**  
+   Use the command below to clone your forked repository:
+   ```bash
+   git clone https://github.com/wrappixel/material-pro-lite.git
+
+3. **Create a New Branch**  
+   Create a new branch to work on your feature or fix. This keeps your changes separate from the main branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+
+4. **Commit and Push Changes**  
+   After making your changes, commit them with a meaningful message and push your branch to your fork:
+   ```bash
+   git commit -am "Add: Description of changes made"
+   git push origin feature/your-feature-name
+
+
+---
+
+## 🧭 Useful Links
+- <p><a href="https://www.wrappixel.com/templates/category/admin-dashboard-templates/?ref=376">Admin Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/bootstrap-templates/?ref=376">Bootstrap Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/angular-templates/?ref=376">Angular Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/react-templates/?ref=376">React Template</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/framer-templates/?ref=376">Framer Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/mui-templates/?ref=376">Material UI Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/vuetify-templates/?ref=376">Vuetify Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/nextjs-templates/?ref=376">NextJs Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/nuxt-templates/?ref=376">Nuxt Templates</a> from Wrappixel</p>
+- <p><a href="https://www.wrappixel.com/templates/category/tailwind-dashboard/?ref=376">Tailwind Templates</a> from Wrappixel</p>
+
+---
+
+## 🌐 We are social
+
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wrappixel)  [![twitter](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419)](https://twitter.com/wrappixel)  [![facebook](https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff)](https://www.facebook.com/wrappixel)  [![instagram](https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369)](https://www.instagram.com/wrappixel)  [![youtube](https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000)](https://www.youtube.com/@wrappixel)  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/wrappixel)
