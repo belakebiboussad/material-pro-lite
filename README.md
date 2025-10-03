@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://www.wrappixel.com/" target="_blank">
-      <img src="https://adminmart.github.io/template_api/images/brand-logo/WrapPixel-Logo.svg" alt="sneat-logo" width="100px" height="100px">
+      <img src="https://adminmart.github.io/template_api/images/brand-logo/WrapPixel-Logo.svg" alt="materialpro-image" width="100px" height="100px">
    </a>
 </p>
 <h1 align="center">
@@ -193,7 +193,7 @@ The **Free Version** of the **MaterialPro Bootstrap Admin** provides a solid set
       <tr>
          <td>
             <a href="https://www.wrappixel.com/templates/materialpro-angular-dashboard/?ref=376" width="150px">
-               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-angular-admin-wpn.jpg" style="max-width:140px;">
+               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/materialpro-angular-admin-wpn.jpg" alt="materialpro-angular-admin-admin-template" style="max-width:140px;">
             </a>
          </td>
          <td>
